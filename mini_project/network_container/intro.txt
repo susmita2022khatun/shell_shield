@@ -1,0 +1,4 @@
+Container Networking:
+
+    Explore container networking options, such as setting up a bridge network or connecting the container to an existing network. This allows containers to communicate with each other or with the host.
+the image of the output is provided in folder.

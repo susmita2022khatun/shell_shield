@@ -1,0 +1,4 @@
+[2023-12-24 01:52:22] Parent Pid: 14597
+[2023-12-24 01:52:22] Setting up jail environment
+[2023-12-23 20:22:22] Executing /bin/bash
+[2023-12-23 20:22:33] Container execution completed
